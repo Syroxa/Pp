@@ -1,0 +1,2 @@
+# Pp
+ apt install unzip  apt install zip ~ ❯❯❯ git clone https://github.com/sadamshr3be/Hack-wifi  ~ ❯❯❯ cd Hack-wifi  unzip alsharabi.zip  rm -rif alsharabi.zip  ~/alsharabi ❯❯❯ chmod +x alsharabi.sh  ~/ alsharabi❯❯❯ ./alsharabi.sh
